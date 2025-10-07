@@ -1,14 +1,31 @@
-# Personalize Sua Experiência com GitHub Copilot
+
+# 📘 Exercício: Personalize Sua Experiência com GitHub Copilot
 
 <img src="https://octodex.github.com/images/Professortocat_v2.png" align="right" height="200px" />
 
-Olá @aacsalomao!
+## 🎯 Objetivo
 
-Aqui é a Mona. Terminei de preparar seu exercício. Espero que goste! 💚
+Neste exercício, você irá explorar e personalizar o uso do GitHub Copilot, aprendendo como adaptar sugestões de código para diferentes estilos e necessidades.
 
-Lembre-se, o ritmo é seu, então não hesite em fazer uma pausa! ☕️
+## 📝 Tarefas
 
-[![](https://img.shields.io/badge/Ir%20para%20o%20Exerc%C3%ADcio-%E2%86%92-1f883d?style=for-the-badge&logo=github&labelColor=197935)](https://github.com/aacsalomao/skills-customize-your-github-copilot-experience/issues/1)
+### 🛠️ Explorar o Copilot
+#### Descrição
+Teste o GitHub Copilot em diferentes linguagens e cenários. Observe como as sugestões mudam conforme o contexto.
+#### Requisitos
+Seu relatório deve:
+- Apresentar exemplos de sugestões em pelo menos duas linguagens diferentes
+- Comentar sobre como o contexto influencia as sugestões
+- Refletir sobre vantagens e limitações observadas
+
+### 🛠️ Personalizar Configurações
+#### Descrição
+Altere as configurações do Copilot para personalizar o estilo das sugestões (ex: preferências de comentários, formato de código, etc).
+#### Requisitos
+Seu relatório deve:
+- Descrever as configurações testadas
+- Apresentar exemplos antes e depois da personalização
+- Refletir sobre o impacto das mudanças na sua experiência
 
 ---
 
