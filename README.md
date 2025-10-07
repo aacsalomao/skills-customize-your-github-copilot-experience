@@ -3,7 +3,7 @@
 
 <img src="https://octodex.github.com/images/Professortocat_v2.png" align="right" height="200px" />
 
-## 🎯 Objetivos
+## 🎯 Objetivos 
 
 Neste exercício, você irá explorar e personalizar o uso do GitHub Copilot, aprendendo como adaptar sugestões de código para diferentes estilos e necessidades.
 
